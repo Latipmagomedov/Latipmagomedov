@@ -1,5 +1,5 @@
 # Латип Магомедов 👋
-#### Junior Frontend Developer
+#### Junior Frontend Developer. Около двух лет во Frontend
 ### Стек технологий:
  1. HTML
  2. CSS
