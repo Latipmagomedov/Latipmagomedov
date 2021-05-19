@@ -8,5 +8,6 @@
  5. Vue Js
  6. Laravel (Базовый уровень)
  7. Git
- 8. Figma 
+ 8. БЭМ
+ 9. Figma 
 
